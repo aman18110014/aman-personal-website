@@ -145,16 +145,6 @@ class Main extends React.Component {
                 <span className="label">Twitter</span>
               </a>
             </li>
-//             <li>
-//               <a href={JSONData.facebook} className="icon fa-facebook">
-//                 <span className="label">Facebook</span>
-//               </a>
-//             </li>
-//             <li>
-//               <a href={JSONData.medium} className="icon fa-medium">
-//                 <span className="label">Medium</span>
-//               </a>
-//             </li>
             <li>
               <a
                 href={JSONData.github}
