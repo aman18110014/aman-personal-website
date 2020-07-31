@@ -1,8 +1,8 @@
 {
-	"Title": "Aditya Ketkar | Personal Webpage",
+	"Title": "Aman | Personal Webpage",
 	"Name": "Aman",
 	"Description": [
-		"Recent graduate from BITS Pilani. Passionate about Space Technology, Cognitive Modelling and Open Source.",
+		"Pre-Final year Civil Engineering Undergraduate. Passionate about IoT, Web Development and Artificial Intelligence.",
 		"I grab every chance I get to travel, learn and create."
 	],
 	"MainImage": "https://i.imgur.com/yQZNGdm.jpg",
@@ -10,10 +10,13 @@
 
 	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
 	"AboutContent": [
-		"I’m a Computer Science major by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
-		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
-		"I am passionate about Space Technology and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk.",
-		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
+			"I'm a junior undergraduate completing B.tech in Civil Engineering.",
+			"I am passionate about working on Internet of Things and Web Development projects.",
+			"I, also like to tinker with microprocessors and microcontrollers.",
+			"I have a zest to solve the real-world problems through my engineering skills.",
+			"When not working, I love to listen to music, sketching portraits or doing cardio.",
+			"A die-hard fan of Elon Musk.",
+			"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
 	],
 
 	"WorkContent": [
@@ -57,12 +60,10 @@
 	"CV": "https://www.visualcv.com/aditya-ketkar/",
 	"Resume": "https://drive.google.com/file/d/1M1Vw1J7Yc3BFIgzJXX4_U-_nfIXCfK8n/view?usp=sharing",
 
-	"emailid": "mailto:adityaketkar848@gmail.com",
-	"linkedin": "https://linkedin.com/in/adityaketkar",
-	"wordpress": "https://technoshblog.wordpress.com/",
-	"facebook": "https://www.facebook.com/aditya",
-	"github": "https://github.com/adityaketkar",
-	"instagram": "http://www.adityaketkar.me",
-	"twitter": "https://twitter.com/ketkar_a",
-	"medium": "https://medium.com/@ketkaraditya"
+	"emailid": "mailto:aman18110014@iitgn.ac.in",
+	"linkedin": "https://www.linkedin.com/in/amanmr/",
+	"wordpress": "https://thetickingtimebombdecoder.wordpress.com",
+	"github": "https://github.com/aman18110014",
+	"instagram": "https://www.instagram.com/half_engineer.00/",
+	"twitter": "https://twitter.com/T4Aman",
 }
